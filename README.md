@@ -1,8 +1,7 @@
 # CodingameSolution
 my codingame solutions in c++
-## finished solutions
 
-### puzzle
+## puzzle
 * [ ] easy
   * [x] The Descent
   * [x] Onboarding
@@ -15,3 +14,9 @@ my codingame solutions in c++
   * [ ] Chuck Norris
   * [ ] Defibrillattors
   * [ ] Horse-racing Duals
+
+## multiplayer
+* smash-the-code
+  * [x] Wood League 2
+  * [x] Wood League 1
+  * [ ] Bronze Leage
