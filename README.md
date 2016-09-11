@@ -19,4 +19,5 @@ my codingame solutions in c++
 * smash-the-code
   * [x] Wood League 2
   * [x] Wood League 1
-  * [ ] Bronze Leage
+  * [x] Bronze League
+  * [ ] Silver League
